@@ -1,4 +1,4 @@
-ersonal Income Classification
+Personal Income Classification
 
 This Python program utilizes pandas, seaborn, scikit-learn libraries to classify individuals into income brackets (<= $50,000 or > $50,000) based on a provided dataset (income.csv). The script performs exploratory data analysis (EDA), data cleaning, feature engineering, and logistic regression modeling.
 
